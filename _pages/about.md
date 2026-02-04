@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year BS/MS student at Georgia Tech majoring in Computer Science. My interests lie at the intersection of AI, language, and society, with a focus on natural language processing, vision–language models, and human–computer interaction.
+I am a fourth-year BS/MS student at Georgia Tech majoring in Computer Science. My interests lie at the intersection of natural language processing, healthcare, and AI for social good.
 
-My current research focuses on evaluation and benchmarking of NLP and multimodal models for low-resource languages in global contexts.
+My current research focuses on evaluation and benchmarking of multimodal models for low-resource languages in global medical contexts. In my past research roles I have worked on projects such as dementia detection through speech as well as building LLM-guided frameworks and LLM-integrated pipelines for 
 
 <!--
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
