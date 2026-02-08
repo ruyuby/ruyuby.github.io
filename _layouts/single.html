@@ -85,7 +85,14 @@ layout: default
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
-      {% include post_pagination.html %}
+      {% if page.collection == "portfolio" %}
+        <div style="margin-top: 2rem;">
+          <a href="{{ '/portfolio/' | relative_url }}" class="btn">
+            ← Back to Portfolio
+          </a>
+        </div>
+      {% endif %}
+
     </div>
 
     {% if site.comments.provider and page.comments %}

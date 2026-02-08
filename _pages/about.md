@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year BS/MS student at Georgia Tech majoring in Computer Science. My interests lie at the intersection of natural language processing, multimodal learning, and AI for social good.
+I am a fourth-year BS/MS student at Georgia Tech majoring in Computer Science. My interests lie at the intersection of natural language processing, healthcare, and AI for social good.
 
 My current research focuses on the evaluation and benchmarking of multimodal models for low-resource languages in global medical contexts. Previously, I have worked on projects including dementia detection through speech analysis and the development of LLM-guided frameworks and LLM-integrated pipelines for large-scale machine learning experimentation. 
 
