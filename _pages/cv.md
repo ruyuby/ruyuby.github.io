@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)]({{ base_path }}/assets/cv/Ruby_Yu_CV.pdf){:target="_blank" rel="noopener"}
+[Download CV (PDF)]({{ base_path }}/assets/cv/Resume.pdf){:target="_blank" rel="noopener"}
 
 <div style="margin-top: 1rem;">
   <iframe
-    src="{{ base_path }}/assets/cv/Ruby_Yu_CV.pdf"
+    src="{{ base_path }}/assets/cv/Resume.pdf"
     width="120%"
     height="1100"
     style="border: 1px solid #e5e7eb; border-radius: 8px;"
