@@ -23,7 +23,7 @@ repository               : "ruyuby/ruyuby.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profilepic.jpg"
+  avatar           : "/images/profile.jpg"
   name             : "Ruby Yu"
   pronouns         : # example: "she/her"  
   bio              : "BS/MS Student in Computer Science"
