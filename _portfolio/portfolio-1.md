@@ -1,6 +1,6 @@
 ---
 title: "Visualizing Economic Reality Through Market Data"
-excerpt: "Built an interactive visualization report comparing GDP recovery and stock market performance across countries during recent economic crises, highlighting how financial markets often recover faster than real economic indicators. <br/><img src='/images/infovis1.png'>"
+excerpt: "An interactive visualization report comparing GDP recovery and stock market performance across countries during recent economic crises, highlighting how financial markets often recover faster than real economic indicators. <br/><img src='/images/infovis1.png'>"
 collection: portfolio
 redirect_to: https://avyuktanagrath.github.io/4460-vis/
 share: false
